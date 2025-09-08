@@ -25,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanaxworld&show_icons=true&locale=en&layout=compact" alt="shanaxworld" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanaxworld&" alt="shanaxworld" /></p>
+
 
