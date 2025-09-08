@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&pause=1000&color=F7042F&center=true&vCenter=true&width=435&lines=Hello+there+!!!;I+am+Shahnawaz+Hossain)](https://git.io/typing-svg)
+<h1 align="center">Hello there 👋, I'm Shahnawaz Hossain</h1>
 <h3 align="center">Working on Problem Solving , MERN and Full Stacks , Database Management , and AI / LLM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanaxworld&label=Profile%20views&color=0e75b6&style=flat" alt="shanaxworld" /> </p>
