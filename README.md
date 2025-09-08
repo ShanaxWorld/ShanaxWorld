@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanaxworld&label=Profile%20views&color=0e75b6&style=flat" alt="shanaxworld" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanaxworld" alt="shanaxworld" /></a> </p>
+![GitHub Snake Light](https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Animation](https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/gh-pages/github-contribution-grid-snake.gif)
+
 
 - 🌱 I’m currently learning **different AI implementations**
 
