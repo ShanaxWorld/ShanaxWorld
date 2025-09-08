@@ -1,9 +1,8 @@
-
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&width=800&lines=Hello+there+👋%20My+name+is+Shahnawaz+Hossain!!!)](https://git.io/typing-svg)
-</h1>
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=F70000&width=600&lines=Hello+there+%F0%9F%91%8B;My+name+is+Shahnawaz+Hossain+!!!&center=true&vCenter=true" alt="Typing SVG"/>
+  </a>
+</p>
 
 
 <h3 align="center">Working on Problem Solving , MERN and Full Stacks , Database Management , and AI / LLM</h3>
