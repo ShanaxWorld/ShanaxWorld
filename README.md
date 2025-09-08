@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Hossain</h1>
 <h3 align="center">Working on Problem Solving , MERN and Full Stacks , Database Management , and AI / LLM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanaxworld&label=Profile%20views&color=0e75b6&style=flat" alt="shanaxworld" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShanaxWorld&label=Profile%20views&color=0e75b6&style=flat" alt="shanaxworld" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanaxworld" alt="shanaxworld" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShanaxWorld" alt="shanaxworld" /></a> </p>
 
 
 <!-- Animated GIF fallback -->
