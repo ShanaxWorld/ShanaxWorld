@@ -13,7 +13,7 @@ on:
       - main
 
 permissions:
-  contents: write  # 👈 Needed so the bot can push
+  contents: write  # 👈 Required so the bot can push
 
 jobs:
   build:
@@ -32,19 +32,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
+      - name: Push new files to gh-pages branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output   # 👈 make sure 'output' is NOT a protected branch
+          target_branch: gh-pages   # 👈 deploy to gh-pages
           build_dir: dist
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
