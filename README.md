@@ -18,6 +18,11 @@
 
 
 
+<!-- Profile GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/main/anime-boy.gif" alt="Your GIF" width="300"/>
+</p>
+
 - 🌱 I’m currently learning **different AI implementations**
 
 - 💬 You can ask me about **new frameworks**
@@ -25,6 +30,12 @@
 - 📫 Contact me through my email : **shahnawazdeveloper21@gmail.com**
 
 - ⚡ Fun fact about me : **I think I like tea**
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
