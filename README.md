@@ -23,7 +23,8 @@
 
 
 
-
+<h2 align="center">🟦🅲🅵🟦 Codeforce Ranking 🟦🅲🅵🟦</h2>
+  <br>
 <div align="center">
   <table width="80%">
     <tr valign="middle">
