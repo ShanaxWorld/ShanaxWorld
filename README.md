@@ -23,22 +23,7 @@
 
 
 
-<h2 align="center">🟦🅲🅵🟦 Codeforce Ranking 🟦🅲🅵🟦</h2>
-  <br>
-<div align="center">
-  <table width="80%">
-    <tr valign="middle">
-      <!-- Left: Codeforces Card -->
-      <td align="left">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShanaxRules" alt="Codeforces Stats">
-      </td>
-      <!-- Right: GIF -->
-      <td align="right">
-        <img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/main/anime-boy.gif" alt="Your GIF" width="300">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center"> <img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/main/anime-boy.gif" alt="Your GIF" width="300"/> </p>
 
 
 
