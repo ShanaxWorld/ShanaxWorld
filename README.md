@@ -14,15 +14,37 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
 <!-- Animated GIF fallback -->
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/gh-pages/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" width="600" /></p>
 
 
 
 
-<!-- Profile GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/main/anime-boy.gif" alt="Your GIF" width="300"/>
-</p>
+
+
+
+<div align="center">
+  <table width="80%">
+    <tr valign="middle">
+      <!-- Left: Codeforces Card -->
+      <td align="left">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShanaxRules" alt="Codeforces Stats">
+      </td>
+      <!-- Right: GIF -->
+      <td align="right">
+        <img src="https://raw.githubusercontent.com/ShanaxWorld/ShanaxWorld/main/anime-boy.gif" alt="Your GIF" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
 <br>
 
 - 🌱 I’m currently learning **different AI implementations**
