@@ -129,8 +129,11 @@
 <br>
 <h2 align="center">📊 My Stats 📈</h2>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShanaxWorld&show_icons=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaxWorld&layout=compact&theme=transparent" height="180"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaxWorld" alt="shanaxworld" />
-</p>
+<div align="center" >
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShanaxWorld&theme=github_dark" width="100%">
+</div>
