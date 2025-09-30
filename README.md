@@ -70,7 +70,7 @@
   <a href="https://www.hackerrank.com/profile/Shanax21" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/ShanaxRules" target="_blank">
+  <a href="https://codeforces.com" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-00A6D6?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>
