@@ -129,4 +129,8 @@
 <br>
 <h2 align="center">📊 My Stats 📈</h2>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShanaxWorld&show_icons=true&locale=en&layout=compact" alt="shanaxworld" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanaxWorld&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanaxWorld&layout=compact&theme=transparent" height="180"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanaxWorld" alt="shanaxworld" />
+</p>
