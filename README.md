@@ -131,9 +131,12 @@
 <br>
 <div align="center" >
   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShanaxWorld&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShanaxWorld&theme=github_dark" width="100%">
+    <a href="https://github.com/gazi-faysal-jubayer">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShanaxWorld&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShanaxWorld&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShanaxWorld&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShanaxWorld&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShanaxWorld&theme=2077" height="180em" />
 </div>
+<br>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
